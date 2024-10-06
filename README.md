@@ -194,6 +194,10 @@ The answers to all the subjective questions (visualization, timing analysis, plo
 ## Acknowledgements
 We would like to extend our gratitude to [Prof. Nipun Batra](https://nipunbatra.github.io/) for his guidance, support, and for providing us with the opportunity to work on this project as part of the ES 335: Machine Learning course at IIT Gandhinagar.
 
+## Collaborators
+- [Shardul Junagade](https://github.com/ShardulJunagade)
+- [Umang Shikarvar](https://github.com/Umang-Shikarvar)
+- [Sharvari Mirge](https://github.com/msharvari31)
 
 ## License
-This project is licensed under the [MIT License](https://github.com/ShardulJunagade/ES-335-Assignment-1-2024-Fall/blob/main/LICENSE) - see the [LICENSE](https://github.com/ShardulJunagade/ES-335-Assignment-1-2024-Fall/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/Soham-Gaonkar/Human-Activity-Recognition/blob/main/LICENSE) - see the [LICENSE](https://github.com/Soham-Gaonkar/Human-Activity-Recognition/blob/main/LICENSE) file for details.
