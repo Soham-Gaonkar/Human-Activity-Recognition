@@ -1,0 +1,1080 @@
+
+Evaluating for N=50, M=1
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1660 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.2851 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0040 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0030 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+
+==================================================
+
+Evaluating for N=50, M=5
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 0.4340 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.7091 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 1.0768 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.8609 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1261 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.1041 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.1945 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.1286 seconds
+        Prediction Time: 0.0000 seconds
+
+==================================================
+
+Evaluating for N=50, M=10
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 0.8342 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 1.4685 seconds
+        Prediction Time: 0.0009 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.0631 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 1.4240 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1142 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.1886 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.3502 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.2719 seconds
+        Prediction Time: 0.0010 seconds
+
+==================================================
+
+Evaluating for N=50, M=20
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 1.6489 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 2.3778 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 3.4274 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 2.8651 seconds
+        Prediction Time: 0.0011 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.2995 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.3542 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.5296 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.3907 seconds
+        Prediction Time: 0.0009 seconds
+
+==================================================
+
+Evaluating for N=50, M=50
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 3.8386 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 5.7698 seconds
+        Prediction Time: 0.0009 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 9.6282 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 7.8797 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.7789 seconds
+        Prediction Time: 0.0050 seconds
+    Criteria: gini_index
+        Training Time: 1.4428 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 1.8409 seconds
+        Prediction Time: 0.0020 seconds
+    Criteria: gini_index
+        Training Time: 1.0868 seconds
+        Prediction Time: 0.0020 seconds
+
+==================================================
+
+Evaluating for N=50, M=100
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 8.2975 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 12.8258 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 20.1800 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 15.7074 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.1470 seconds
+        Prediction Time: 0.0020 seconds
+    Criteria: gini_index
+        Training Time: 1.7520 seconds
+        Prediction Time: 0.0021 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.9527 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 1.9392 seconds
+        Prediction Time: 0.0029 seconds
+
+==================================================
+
+Evaluating for N=100, M=1
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 0.2735 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.4480 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0030 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0040 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0010 seconds
+
+==================================================
+
+Evaluating for N=100, M=5
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 0.8708 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 1.3025 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.2429 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 1.6911 seconds
+        Prediction Time: 0.0009 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0812 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.1267 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.2114 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.1234 seconds
+        Prediction Time: 0.0010 seconds
+
+==================================================
+
+Evaluating for N=100, M=10
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 1.7103 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 2.7175 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 4.4655 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 3.3175 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1528 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.2679 seconds
+        Prediction Time: 0.0015 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.3509 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.3349 seconds
+        Prediction Time: 0.0010 seconds
+
+==================================================
+
+Evaluating for N=100, M=20
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 3.7136 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 5.9009 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 8.7490 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 6.2596 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.3676 seconds
+        Prediction Time: 0.0020 seconds
+    Criteria: gini_index
+        Training Time: 0.5217 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.7473 seconds
+        Prediction Time: 0.0009 seconds
+    Criteria: gini_index
+        Training Time: 0.5683 seconds
+        Prediction Time: 0.0016 seconds
+
+==================================================
+
+Evaluating for N=100, M=50
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 7.9530 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 12.8143 seconds
+        Prediction Time: 0.0005 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 22.1550 seconds
+        Prediction Time: 0.0016 seconds
+    Criteria: gini_index
+        Training Time: 16.3243 seconds
+        Prediction Time: 0.0000 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.9172 seconds
+        Prediction Time: 0.0025 seconds
+    Criteria: gini_index
+        Training Time: 1.2997 seconds
+        Prediction Time: 0.0020 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.2361 seconds
+        Prediction Time: 0.0037 seconds
+    Criteria: gini_index
+        Training Time: 1.6400 seconds
+        Prediction Time: 0.0025 seconds
+
+==================================================
+
+Evaluating for N=100, M=100
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 16.7512 seconds
+        Prediction Time: 0.0009 seconds
+    Criteria: gini_index
+        Training Time: 26.2645 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 42.2441 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 34.6730 seconds
+        Prediction Time: 0.0010 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.8445 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 2.8475 seconds
+        Prediction Time: 0.0020 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 4.4178 seconds
+        Prediction Time: 0.0019 seconds
+    Criteria: gini_index
+        Training Time: 2.9585 seconds
+        Prediction Time: 0.0015 seconds
+
+==================================================
+
+Evaluating for N=500, M=1
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 1.7200 seconds
+        Prediction Time: 0.0027 seconds
+    Criteria: gini_index
+        Training Time: 2.6920 seconds
+        Prediction Time: 0.0030 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0000 seconds
+    Criteria: gini_index
+        Training Time: 0.0015 seconds
+        Prediction Time: 0.0005 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0030 seconds
+        Prediction Time: 0.0021 seconds
+    Criteria: gini_index
+        Training Time: 0.0029 seconds
+        Prediction Time: 0.0005 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0010 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0010 seconds
+
+==================================================
+
+Evaluating for N=500, M=5
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 4.6421 seconds
+        Prediction Time: 0.0050 seconds
+    Criteria: gini_index
+        Training Time: 8.4318 seconds
+        Prediction Time: 0.0030 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 15.8279 seconds
+        Prediction Time: 0.0068 seconds
+    Criteria: gini_index
+        Training Time: 15.5526 seconds
+        Prediction Time: 0.0072 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1809 seconds
+        Prediction Time: 0.0069 seconds
+    Criteria: gini_index
+        Training Time: 0.1660 seconds
+        Prediction Time: 0.0058 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.2711 seconds
+        Prediction Time: 0.0050 seconds
+    Criteria: gini_index
+        Training Time: 0.1987 seconds
+        Prediction Time: 0.0055 seconds
+
+==================================================
+
+Evaluating for N=500, M=10
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 13.6359 seconds
+        Prediction Time: 0.0081 seconds
+    Criteria: gini_index
+        Training Time: 19.2931 seconds
+        Prediction Time: 0.0030 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 24.1476 seconds
+        Prediction Time: 0.0021 seconds
+    Criteria: gini_index
+        Training Time: 18.2513 seconds
+        Prediction Time: 0.0039 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.2365 seconds
+        Prediction Time: 0.0040 seconds
+    Criteria: gini_index
+        Training Time: 0.2712 seconds
+        Prediction Time: 0.0040 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.3603 seconds
+        Prediction Time: 0.0042 seconds
+    Criteria: gini_index
+        Training Time: 0.3150 seconds
+        Prediction Time: 0.0040 seconds
+
+==================================================
+
+Evaluating for N=500, M=20
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 16.6253 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 28.5134 seconds
+        Prediction Time: 0.0021 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 44.6276 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 34.6910 seconds
+        Prediction Time: 0.0020 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.3318 seconds
+        Prediction Time: 0.0040 seconds
+    Criteria: gini_index
+        Training Time: 0.5351 seconds
+        Prediction Time: 0.0031 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.7217 seconds
+        Prediction Time: 0.0040 seconds
+    Criteria: gini_index
+        Training Time: 0.5945 seconds
+        Prediction Time: 0.0040 seconds
+
+==================================================
+
+Evaluating for N=500, M=50
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 40.1339 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 69.8950 seconds
+        Prediction Time: 0.0031 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 111.2961 seconds
+        Prediction Time: 0.0040 seconds
+    Criteria: gini_index
+        Training Time: 90.9190 seconds
+        Prediction Time: 0.0059 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.5322 seconds
+        Prediction Time: 0.0054 seconds
+    Criteria: gini_index
+        Training Time: 2.3293 seconds
+        Prediction Time: 0.0070 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 3.3613 seconds
+        Prediction Time: 0.0148 seconds
+    Criteria: gini_index
+        Training Time: 2.7494 seconds
+        Prediction Time: 0.0058 seconds
+
+==================================================
+
+Evaluating for N=500, M=100
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 115.7776 seconds
+        Prediction Time: 0.0057 seconds
+    Criteria: gini_index
+        Training Time: 151.9203 seconds
+        Prediction Time: 0.0030 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 255.0676 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 177.5575 seconds
+        Prediction Time: 0.0040 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.7990 seconds
+        Prediction Time: 0.0050 seconds
+    Criteria: gini_index
+        Training Time: 2.5559 seconds
+        Prediction Time: 0.0050 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 3.8757 seconds
+        Prediction Time: 0.0054 seconds
+    Criteria: gini_index
+        Training Time: 3.2562 seconds
+        Prediction Time: 0.0048 seconds
+
+==================================================
+
+Evaluating for N=1000, M=1
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 3.4510 seconds
+        Prediction Time: 0.0068 seconds
+    Criteria: gini_index
+        Training Time: 6.5608 seconds
+        Prediction Time: 0.0055 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0015 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0020 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0030 seconds
+        Prediction Time: 0.0030 seconds
+    Criteria: gini_index
+        Training Time: 0.0030 seconds
+        Prediction Time: 0.0040 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0011 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0032 seconds
+
+==================================================
+
+Evaluating for N=1000, M=5
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 9.8382 seconds
+        Prediction Time: 0.0061 seconds
+    Criteria: gini_index
+        Training Time: 18.6054 seconds
+        Prediction Time: 0.0061 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 26.0052 seconds
+        Prediction Time: 0.0053 seconds
+    Criteria: gini_index
+        Training Time: 20.4622 seconds
+        Prediction Time: 0.0059 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0874 seconds
+        Prediction Time: 0.0074 seconds
+    Criteria: gini_index
+        Training Time: 0.1144 seconds
+        Prediction Time: 0.0077 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.1699 seconds
+        Prediction Time: 0.0071 seconds
+    Criteria: gini_index
+        Training Time: 0.1519 seconds
+        Prediction Time: 0.0080 seconds
+
+==================================================
+
+Evaluating for N=1000, M=10
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 18.0291 seconds
+        Prediction Time: 0.0062 seconds
+    Criteria: gini_index
+        Training Time: 31.6676 seconds
+        Prediction Time: 0.0060 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 59.5631 seconds
+        Prediction Time: 0.0111 seconds
+    Criteria: gini_index
+        Training Time: 41.8026 seconds
+        Prediction Time: 0.0060 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.2169 seconds
+        Prediction Time: 0.0070 seconds
+    Criteria: gini_index
+        Training Time: 0.3092 seconds
+        Prediction Time: 0.0092 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.6080 seconds
+        Prediction Time: 0.0166 seconds
+    Criteria: gini_index
+        Training Time: 0.4531 seconds
+        Prediction Time: 0.0083 seconds
+
+==================================================
+
+Evaluating for N=1000, M=20
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 44.3257 seconds
+        Prediction Time: 0.0067 seconds
+    Criteria: gini_index
+        Training Time: 84.0723 seconds
+        Prediction Time: 0.0074 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 123.3865 seconds
+        Prediction Time: 0.0063 seconds
+    Criteria: gini_index
+        Training Time: 93.3200 seconds
+        Prediction Time: 0.0135 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.5583 seconds
+        Prediction Time: 0.0092 seconds
+    Criteria: gini_index
+        Training Time: 0.8428 seconds
+        Prediction Time: 0.0231 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 1.2178 seconds
+        Prediction Time: 0.0102 seconds
+    Criteria: gini_index
+        Training Time: 0.7219 seconds
+        Prediction Time: 0.0095 seconds
+
+==================================================
+
+Evaluating for N=1000, M=50
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 111.3330 seconds
+        Prediction Time: 0.0063 seconds
+    Criteria: gini_index
+        Training Time: 192.0954 seconds
+        Prediction Time: 0.0060 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 224.7813 seconds
+        Prediction Time: 0.0070 seconds
+    Criteria: gini_index
+        Training Time: 272.0235 seconds
+        Prediction Time: 0.0071 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.2780 seconds
+        Prediction Time: 0.0133 seconds
+    Criteria: gini_index
+        Training Time: 1.9422 seconds
+        Prediction Time: 0.0090 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.8703 seconds
+        Prediction Time: 0.0158 seconds
+    Criteria: gini_index
+        Training Time: 2.3207 seconds
+        Prediction Time: 0.0091 seconds
+
+==================================================
+
+Evaluating for N=1000, M=100
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 260.8324 seconds
+        Prediction Time: 0.0081 seconds
+    Criteria: gini_index
+        Training Time: 424.3838 seconds
+        Prediction Time: 0.0076 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 653.0114 seconds
+        Prediction Time: 0.0060 seconds
+    Criteria: gini_index
+        Training Time: 492.2986 seconds
+        Prediction Time: 0.0067 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 2.4187 seconds
+        Prediction Time: 0.0144 seconds
+    Criteria: gini_index
+        Training Time: 3.8239 seconds
+        Prediction Time: 0.0126 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 5.4119 seconds
+        Prediction Time: 0.0247 seconds
+    Criteria: gini_index
+        Training Time: 4.3336 seconds
+        Prediction Time: 0.0150 seconds
+
+==================================================
+
+Evaluating for N=5000, M=1
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 28.0832 seconds
+        Prediction Time: 0.0465 seconds
+    Criteria: gini_index
+        Training Time: 59.1342 seconds
+        Prediction Time: 0.0383 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0011 seconds
+        Prediction Time: 0.0119 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0109 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.0039 seconds
+        Prediction Time: 0.0200 seconds
+    Criteria: gini_index
+        Training Time: 0.0067 seconds
+        Prediction Time: 0.0204 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.0015 seconds
+        Prediction Time: 0.0105 seconds
+    Criteria: gini_index
+        Training Time: 0.0000 seconds
+        Prediction Time: 0.0104 seconds
+
+==================================================
+
+Evaluating for N=5000, M=5
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 84.7814 seconds
+        Prediction Time: 0.0369 seconds
+    Criteria: gini_index
+        Training Time: 175.8298 seconds
+        Prediction Time: 0.0441 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 184.0170 seconds
+        Prediction Time: 0.0377 seconds
+    Criteria: gini_index
+        Training Time: 149.7883 seconds
+        Prediction Time: 0.0368 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1281 seconds
+        Prediction Time: 0.0429 seconds
+    Criteria: gini_index
+        Training Time: 0.2374 seconds
+        Prediction Time: 0.0952 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.2831 seconds
+        Prediction Time: 0.0490 seconds
+    Criteria: gini_index
+        Training Time: 0.1788 seconds
+        Prediction Time: 0.0520 seconds
+
+==================================================
+
+Evaluating for N=5000, M=10
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 142.0557 seconds
+        Prediction Time: 0.0526 seconds
+    Criteria: gini_index
+        Training Time: 296.7183 seconds
+        Prediction Time: 0.0326 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 267.0158 seconds
+        Prediction Time: 0.0325 seconds
+    Criteria: gini_index
+        Training Time: 206.7803 seconds
+        Prediction Time: 0.0280 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.1952 seconds
+        Prediction Time: 0.0310 seconds
+    Criteria: gini_index
+        Training Time: 0.3014 seconds
+        Prediction Time: 0.0436 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.3896 seconds
+        Prediction Time: 0.0351 seconds
+    Criteria: gini_index
+        Training Time: 0.3152 seconds
+        Prediction Time: 0.0327 seconds
+
+==================================================
+
+Evaluating for N=5000, M=20
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 201.5000 seconds
+        Prediction Time: 0.0307 seconds
+    Criteria: gini_index
+        Training Time: 394.6832 seconds
+        Prediction Time: 0.0296 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 599.1922 seconds
+        Prediction Time: 0.0286 seconds
+    Criteria: gini_index
+        Training Time: 381.6280 seconds
+        Prediction Time: 0.0291 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.3575 seconds
+        Prediction Time: 0.0336 seconds
+    Criteria: gini_index
+        Training Time: 0.7336 seconds
+        Prediction Time: 0.0465 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 0.8487 seconds
+        Prediction Time: 0.0345 seconds
+    Criteria: gini_index
+        Training Time: 0.6336 seconds
+        Prediction Time: 0.0416 seconds
+
+==================================================
+
+Evaluating for N=5000, M=50
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 468.7501 seconds
+        Prediction Time: 0.0280 seconds
+    Criteria: gini_index
+        Training Time: 1213.8351 seconds
+        Prediction Time: 0.0820 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 1730.6290 seconds
+        Prediction Time: 0.0491 seconds
+    Criteria: gini_index
+        Training Time: 1055.6388 seconds
+        Prediction Time: 0.0265 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 0.9693 seconds
+        Prediction Time: 0.0394 seconds
+    Criteria: gini_index
+        Training Time: 1.6148 seconds
+        Prediction Time: 0.0419 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2.1485 seconds
+        Prediction Time: 0.0333 seconds
+    Criteria: gini_index
+        Training Time: 1.5219 seconds
+        Prediction Time: 0.0321 seconds
+
+==================================================
+
+Evaluating for N=5000, M=100
+
+    Input type: real, Output type: real
+    Criteria: information_gain
+        Training Time: 1249.4930 seconds
+        Prediction Time: 0.0275 seconds
+    Criteria: gini_index
+        Training Time: 2418.7652 seconds
+        Prediction Time: 0.0347 seconds
+
+    Input type: real, Output type: discrete
+    Criteria: information_gain
+        Training Time: 2585.3768 seconds
+        Prediction Time: 0.0310 seconds
+    Criteria: gini_index
+        Training Time: 1826.3579 seconds
+        Prediction Time: 0.0279 seconds
+
+    Input type: discrete, Output type: real
+    Criteria: information_gain
+        Training Time: 1.6607 seconds
+        Prediction Time: 0.0342 seconds
+    Criteria: gini_index
+        Training Time: 2.5914 seconds
+        Prediction Time: 0.0335 seconds
+
+    Input type: discrete, Output type: discrete
+    Criteria: information_gain
+        Training Time: 3.5290 seconds
+        Prediction Time: 0.0358 seconds
+    Criteria: gini_index
+        Training Time: 2.8251 seconds
+        Prediction Time: 0.0347 seconds
+
+==================================================
